@@ -1,0 +1,4 @@
+config BR2_PACKAGE_LDD
+	bool "aesdchar_dd"
+	help
+	  Build and Install aesdchar device driver in rootfs
